@@ -1,4 +1,3 @@
-````markdown
 # IP2: Digit Recognition with CNN
 
 This project implements a simple Convolutional Neural Network (CNN) for handwritten digit recognition using PyTorch and Lightning. The model is trained on grayscale 28×28 digit images.
