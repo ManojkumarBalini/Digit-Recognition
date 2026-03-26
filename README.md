@@ -1,7 +1,3 @@
-Here is your **FULL copy-paste README.md** (no breaks, no extra text — just copy everything 👇)
-
----
-
 ````markdown
 # IP2: Digit Recognition with CNN
 
